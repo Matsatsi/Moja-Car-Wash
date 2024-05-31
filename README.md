@@ -1,5 +1,5 @@
-<h3>A Simple Car-Wash managment application</h3>
-<h6>some of the tools used</h6>
+<h2>A Simple Car-Wash managment application</h2>
+<h3>some of the tools used</h3>
 <ol>
   <li>>--> Spring-boot(web, jpa, security)</li>
   <li>--> postgres</li>
@@ -15,6 +15,6 @@
 <p>--> set an appointment.</p>
 <p>--> track the progress/state of the Car.</p>
 
-<h2>Car-Wash-supervisor functions</h2>
+<h3>Car-Wash-supervisor functions</h3>
 <p>--> manage employees. (add and delete)</p>
 <p>--> oversee cars. (check off car for completion, check on car progress/state)</p>
