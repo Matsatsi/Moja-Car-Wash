@@ -14,10 +14,10 @@
 <p>--> Customer (NO login required)</p>
 <p>--> Car-Wash-supervisors (manage the day to day activities of a car-wash spot)</p>
 
-Customer-functions
---> set an appointment.
---> track the progress/state of the Car.
+<h3>Customer-functions</h3>
+<p>--> set an appointment.</p>
+<p>--> track the progress/state of the Car.</p>
 
-Car-Wash-supervisor functions
---> manage employees. (add and delete)
---> oversee cars. (check off car for completion, check on car progress/state)
+<h2>Car-Wash-supervisor functions</h2>
+<p>--> manage employees. (add and delete)</p>
+<p>--> oversee cars. (check off car for completion, check on car progress/state)</p>
