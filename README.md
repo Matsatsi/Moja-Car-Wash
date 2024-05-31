@@ -7,9 +7,6 @@
   <li>--> Jwt</li>
 </ol
 
-
-
-
 <h3> Users</h3>
 <p>--> Customer (NO login required)</p>
 <p>--> Car-Wash-supervisors (manage the day to day activities of a car-wash spot)</p>
